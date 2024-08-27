@@ -8,5 +8,5 @@
       "type":"esp32-fota-r",
       "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware-1-8.bin"
-   },
+   }
 ]
