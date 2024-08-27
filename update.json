@@ -2,7 +2,7 @@
    {
       "type":"esp32-fota-d",
       "version": "0.0.2",
-      "url": "https://raw.githubusercontent.com/fun-daz-dig/vidar-test/main/firmware-002.bin"
+      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/002.bin"
    },
    {
       "type":"esp32-fota-r",
