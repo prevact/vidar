@@ -16,7 +16,7 @@
    },   
    {
       "type":"esp32-Fota-d",
-      "version": "0.1.0",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/010.bin"
+      "version": "0.1.3",
+      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/firmware013.bin"
    },
 ]
