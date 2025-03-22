@@ -21,7 +21,7 @@
       "version": "1.0.1",
        "host": "raw.githubusercontent.com/prevact/vidar/main",
           "port": 443,
-      "url": "/firmware/101.bin",
+      "bin": "/firmware/101.bin",
       "littlefs": "/littlefs/littlefsXXX.littlefs.bin"
    },  
    {
