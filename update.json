@@ -1,30 +1,12 @@
 [
    {
       "type":"Vidar-Fota-d",
-      "version": "0.0.7",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/101.bin"
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/firmware101.bin"
    }, 
-      {
-      "type":"Vidar-Fota-d",
-      "version": "0.0.8",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/101.bin",
-      "littlefs": "https://raw.githubusercontent.com/prevact/vidar/main/littlefs/littlefsXXX.bin"
-   }, 
-         {
-      "type":"Vidar-Fota-d",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/101.bin",
-      "littlefs": "https://raw.githubusercontent.com/prevact/vidar/main/littlefs/littlefsXXX.bin"
-   },  
    {
       "type":"Vidar-Fota-r",
-      "version": "0.0.7",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/firmware013.bin"
-   },
-   {
-      "type":"Vidar-Fota-d",
       "version": "1.0.1",
-      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/101.bin",
-      "littlefs": "https://raw.githubusercontent.com/prevact/vidar/main/littlefs/littlefsXXX.littlefs.bin"
-   } 
+      "url": "https://raw.githubusercontent.com/prevact/vidar/main/firmware/firmware101.bin"
+   }
 ]
