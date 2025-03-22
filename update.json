@@ -19,8 +19,7 @@
    {
       "type":"Vidar-Fota-d",
       "version": "1.0.1",
-       "host": "raw.githubusercontent.com/prevact/vidar/main",
-          "port": 443,
+      "host": "raw.githubusercontent.com/prevact/vidar/main",
       "bin": "/firmware/101.bin",
       "littlefs": "/littlefs/littlefsXXX.littlefs.bin"
    },  
